@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tejasbijawe07
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
 - 📫 How to reach me on linkedin- https://www.linkedin.com/in/tejas-bijawe-00935820a/ 
 
 <!---
