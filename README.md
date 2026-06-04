@@ -26,14 +26,6 @@ I am passionate about Linux, automation, cloud technologies, CI/CD, and building
 * Jenkins
 * GitHub Actions
 
-## 📂 Important Projects
-
-* 3-tier E-commerce app deployment on AWS EKS
-* Photo Sharing app using AWS
-* Linux Automation Scripts
-* CI/CD Demo Projects
-* DevOps Learning Repository
-
 ## 📫 Reach Me
 
 * LinkedIn: https://www.linkedin.com/in/tejas-bijawe-00935820a/
