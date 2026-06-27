@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an aspiring DevOps Engineer currently working in the IT industry and building my career towards DevOps. Alongside my current professional experience, I actively practice DevOps concepts through self-learning, hands-on labs, automation projects, and real-world scenarios.
+I'm an aspiring DevOps Engineer currently working in the IT industry with 2.6+ years of experience and building my career towards DevOps. Alongside my current professional experience, I actively practice DevOps concepts through self-learning, hands-on labs, automation projects, and real-world scenarios.
 
 I am passionate about Linux, automation, cloud technologies, CI/CD, and building reliable systems while continuously improving my skills through projects and daily practice.
 
